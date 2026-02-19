@@ -1,16 +1,24 @@
-## Hi there 👋
+### Привет! 👋 Меня зовут Павел
 
-<!--
-**bor1sor/bor1sor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я ручной тестировщик (Manual QA) с опытом работы 5 лет.  
+### 🛠 Мой стек инструментов
 
-Here are some ideas to get you started:
+**Тестирование:**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
+![DevTools](https://img.shields.io/badge/-DevTools-0F9D58?style=for-the-badge&logo=googlechrome)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+![Elastic](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Документация**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+**Разработка и автоматизация (в процессе изучения):**  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)
+![TestNG](https://img.shields.io/badge/-TestNG-FF6C37?style=for-the-badge)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
