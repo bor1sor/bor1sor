@@ -15,7 +15,7 @@
 **Документация**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Bug Reports](https://img.shields.io/badge/Баг--репорты-Идеальные-FF6C37?style=for-the-badge)
+![Confluence](https://img.shields.io/badge/ConfluenceFF6C37?style=for-the-badge)
 
 **Разработка и автоматизация (в процессе изучения):**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
