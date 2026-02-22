@@ -10,7 +10,6 @@
 ![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Elastic](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Soap UI](https://img.shields.io/badge/SoapUI-0052CC?style=for-the-badge&logo=SoapUI)
 
 **Документация**
@@ -29,3 +28,4 @@
 **Мобильное тестирование**
 
 ![CharlesProxy](https://img.shields.io/badge/CharlesProxy-0052CC?style=for-the-badge&logo=CharlesProxy&logoColor=green)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
