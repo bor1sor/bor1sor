@@ -11,11 +11,13 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Elastic](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Soap UI](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Jira&logoColor=yellow)
 
 **Документация**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Jira&logoColor=blue)
+![Redmine](https://img.shields.io/badge/Redmine-9C0000?style=for-the-badge&logo=Redmine&logoColor=white)
 
 **Разработка и автоматизация (в процессе изучения):**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
