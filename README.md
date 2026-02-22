@@ -11,7 +11,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Elastic](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Soap UI](https://img.shields.io/badge/SoapUI-0052CC?style=for-the-badge&logo=Swagger&logoColor=yellow)
+![Soap UI](https://img.shields.io/badge/SoapUI-0052CC?style=for-the-badge&logo=SoapUI)
 
 **Документация**
 
