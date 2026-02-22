@@ -28,4 +28,4 @@
 
 **Мобильное тестирование**
 
-![CharlesProxy](https://img.shields.io/badge/CharlesProxy-0052CC?style=for-the-badge&logo=Jira&logoColor=green)
+![CharlesProxy](https://img.shields.io/badge/CharlesProxy-0052CC?style=for-the-badge&logo=CharlesProxy&logoColor=green)
