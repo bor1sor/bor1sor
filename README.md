@@ -25,3 +25,6 @@
 ![TestNG](https://img.shields.io/badge/-TestNG-FF6C37?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+
+**Мобильное тестирование**
+![CharlesProxy](https://img.shields.io/badge/CharlesProxy-0052CC?style=for-the-badge&logo=Jira&logoColor=green)
