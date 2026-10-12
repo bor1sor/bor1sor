@@ -19,6 +19,10 @@
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Jira&logoColor=blue)
 ![Redmine](https://img.shields.io/badge/Redmine-9C0000?style=for-the-badge&logo=Redmine&logoColor=white)
 
+**Логи**
+
+
+
 **Разработка и автоматизация (в процессе изучения):**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)
